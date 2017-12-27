@@ -10,4 +10,4 @@ build*
 *.pro.user*
 *.*~
 *~
-.kdev4
+*.kdev4
