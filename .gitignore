@@ -1,0 +1,13 @@
+build
+*build
+build*
+*debug*
+*.a
+*.so
+.vs*
+.ide*
+*.pro
+*.pro.user*
+*.*~
+*~
+.kdev4
